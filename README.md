@@ -8,3 +8,16 @@ The screenshots of the app is shown below. The web app can be accessed by clicke
 
 ![Screenshot Predict](https://i.ibb.co/tbtwwyF/NLP-APP.png)
 
+
+## Installations:
+
+This project requires Python 3.7x and the following Python libraries should be installed to get the project started:
+
+- [Pandas](http://pandas.pydata.org/)
+- [streamlit](https://docs.streamlit.io/en/stable/)
+- [spacy](https://spacy.io/)
+- [spacy-streamlit](https://spacy.io/universe/project/spacy-streamlit)
+- [stqdm](https://github.com/Wirg/stqdm)
+- [spacy-streamlit](https://pypi.org/project/spacy-streamlit/)
+- [spacy-pretrained model](https://spacy.io/models/en)
+
