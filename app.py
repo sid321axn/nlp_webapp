@@ -84,7 +84,7 @@ def main():
         
         
     elif choice=="Named Entity Recognition":
-        nlp = spacy.load("en_core_web_trf")
+        nlp = spacy.load("en_core_web_sm")
         st.subheader("Text Based Named Entity Recognition")
         st.write(" Enter the Text below To extract Named Entities !")
 
