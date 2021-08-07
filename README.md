@@ -6,5 +6,5 @@ In this Natural Language Processing based web app we have used hugging face tran
 
 The screenshots of the app is shown below. The web app can be accessed by clicker [here](https://share.streamlit.io/sid321axn/nlp_webapp/main/app.py)
 
-![Screenshot Predict](https://ibb.co/zSYWWKD)
+![Screenshot Predict](https://i.ibb.co/tbtwwyF/NLP-APP.png)
 
