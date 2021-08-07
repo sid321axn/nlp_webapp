@@ -75,7 +75,7 @@ def main():
         if raw_text!="" and num_words is not None:
             num_words = int(num_words)
             summarizer = pipeline('summarization')
-            summary = summarizer(raw_text, min_length=num_words,max_length=100)
+            summary = summarizer(raw_text, min_length=num_words,max_length=50)
             s1 = json.dumps(summary[0])
             d2 = json.loads(s1)
             result_summary = d2['summary_text']
